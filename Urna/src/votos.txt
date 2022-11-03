@@ -1,0 +1,11 @@
+Presidentes - Numero de Votos - Percentual
+Branco - 0 - 0%
+Nulo - 0 - 0%
+
+Senadores - Numero de Votos - Percentual
+Branco - 0 - 0%
+Nulo - 0 - 0%
+
+Deputados Federais - Numero de Votos - Percentual
+Branco - 0 - 0%
+Nulo - 0 - 0%
